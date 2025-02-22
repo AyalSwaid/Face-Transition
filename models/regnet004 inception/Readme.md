@@ -6,10 +6,12 @@
 * trained on ffhq128_70k
 * input/output shape: (3,128,128), latent shape: (888,4,4)
 ## Learning Curve:
-  ![learning curve](https://github.com/user-attachments/assets/5e4d859a-c0e7-4e4f-917e-03762ce13c4f)
+![learning curve](https://github.com/user-attachments/assets/a1cee2b2-05ba-43a6-9f98-b83436d200ab)
+
 
 ## Some images reconstructions
-![recon1](https://github.com/user-attachments/assets/dc84d0ef-57ef-4db9-8c68-987a5ba87202)
+![1](https://github.com/user-attachments/assets/f09d97b4-1f13-4fe2-8ffc-2598a243842a)
+
 
 ![recon2](https://github.com/user-attachments/assets/ced7fbe8-5f09-4f64-8f9f-c71c58e09136)
 
