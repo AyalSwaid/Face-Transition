@@ -2,6 +2,7 @@
 ## Details
 * val_loss=0.00348, train_loss_epoch=0.00336
 * encoder is pretrained regnety018 model and decoder is custom CNN network
+* num parameters: 18 (M)
 * loss function: MSE
 * trained on ffhq128_70k
 * input/output shape: (3,128,128), latent shape: (888,4,4)
