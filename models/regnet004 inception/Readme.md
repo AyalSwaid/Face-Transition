@@ -4,10 +4,12 @@
 ## Details
 * val_loss=0.083, train_loss_epoch=0.078
 * encoder is pretrained regnety004 model and decoder is a sequence of transposed convolutions and google inception blocks
+* num parameters: 8 (M)
 * loss function: MSE
-* trained on ffhq128_70k
+* trained on ffhq128_70k for 20 epochs
 * input/output shape: (3,128,128), latent shape: (440,4,4), x2 smaller than hp_v5 model
 ## Learning Curve:
+**Note: This plot starts from epoch 10**
 ![learning curve](https://github.com/user-attachments/assets/a1cee2b2-05ba-43a6-9f98-b83436d200ab)
 
 
