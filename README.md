@@ -1,5 +1,5 @@
-# Face-Transition
-Built VAE that reconstruct human faces (model parameters and pickle files attached), then, given two human faces A and B do transition from face A to face B smoothly by interpolating their latent codes.
+# Face-Transition (Face Morphing)
+Built VAE that reconstruct human faces (model parameters and pickle files attached), then do face morphing, given two human faces A and B do transition from face A to face B smoothly by interpolating their latent codes.
 
 # Examples
 
