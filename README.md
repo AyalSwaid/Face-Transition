@@ -2,7 +2,7 @@
 Built VAE that reconstruct human faces (model parameters and pickle files attached), then do face morphing, given two human faces A and B do transition from face A to face B smoothly by interpolating their latent codes.
 
 # Examples
-
+Note: It may take time to load
 ![ezgif-1738c31fd1ef24](https://github.com/user-attachments/assets/f11bfd71-3605-4172-a083-25a5d78bc45b)
 
 ![ezgif-1a195e67bf273b](https://github.com/user-attachments/assets/a745e280-fa6f-4f87-b3cd-f460e9084f6c)
