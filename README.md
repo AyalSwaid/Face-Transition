@@ -3,9 +3,9 @@ Built VAE that reconstruct human faces (model parameters and pickle files attach
 
 # Examples
 
-![ezgif-1a195e67bf273b](https://github.com/user-attachments/assets/a745e280-fa6f-4f87-b3cd-f460e9084f6c)
+![ezgif-1738c31fd1ef24](https://github.com/user-attachments/assets/f11bfd71-3605-4172-a083-25a5d78bc45b)
 
-![ezgif-1c53119a5c777d](https://github.com/user-attachments/assets/b108f5b5-a96b-422b-807e-287c5573b7ea)
+![ezgif-1a195e67bf273b](https://github.com/user-attachments/assets/a745e280-fa6f-4f87-b3cd-f460e9084f6c)
 
 # Models
 ### found under models folder
